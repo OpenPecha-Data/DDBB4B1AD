@@ -21,70 +21,70 @@ annotations:
     reference: ''
     span:
       start: 2065
-      end: 3393
+      end: 3394
     note_ref: 3c1af446fdd44cde82619241bceff04a
   7c82aecad4774f7f9bae9bb0d38417c8:
     imgnum: 410
     reference: ''
     span:
-      start: 3395
-      end: 4705
+      start: 3396
+      end: 4706
     note_ref: 3c1af446fdd44cde82619241bceff04a
   a2b1c8762d634e6ea04058ceba0dbbfe:
     imgnum: 411
     reference: ''
     span:
-      start: 4707
-      end: 6054
+      start: 4708
+      end: 6055
     note_ref: 3c1af446fdd44cde82619241bceff04a
   d9b3b57ffc8f4fd2804e56d6a22a957d:
     imgnum: 412
     reference: ''
     span:
-      start: 6056
-      end: 7397
+      start: 6057
+      end: 7398
     note_ref: 3c1af446fdd44cde82619241bceff04a
   aba9c9e44db74cc79f500439b0b1349f:
     imgnum: 413
     reference: ''
     span:
-      start: 7399
-      end: 8733
+      start: 7400
+      end: 8734
     note_ref: 3c1af446fdd44cde82619241bceff04a
   b63d62a737ef4ba9bc1c328041a22bf4:
     imgnum: 414
     reference: ''
     span:
-      start: 8735
-      end: 10063
+      start: 8736
+      end: 10064
     note_ref: 41b1ea03858f41909eec9f9e44c87f93
   29b931e935c745cc95ea135b8602b7d6:
     imgnum: 415
     reference: ''
     span:
-      start: 10065
-      end: 11441
+      start: 10066
+      end: 11442
     note_ref: 41b1ea03858f41909eec9f9e44c87f93
   9b8036669663419e92ada1e190f7631f:
     imgnum: 416
     reference: ''
     span:
-      start: 11443
-      end: 12781
+      start: 11444
+      end: 12782
     note_ref: 41b1ea03858f41909eec9f9e44c87f93
   3c1af446fdd44cde82619241bceff04a:
     imgnum: 417
     reference: ''
     span:
-      start: 12783
-      end: 14919
+      start: 12784
+      end: 14920
     note_ref: 41b1ea03858f41909eec9f9e44c87f93
   41b1ea03858f41909eec9f9e44c87f93:
     imgnum: 418
     reference: ''
     span:
-      start: 14921
-      end: 15734
+      start: 14922
+      end: 15735
 local_ids:
   ff432285259541cb94d8a2fea46840ba: 200000
   7839c4444106436b8091c079f1beab57: 200001
